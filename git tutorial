@@ -23,10 +23,11 @@ git status
 para salvar tudo
 
 git add .
+git commit -m "first commit2"
 
 para enviar a publicação pro github
 
-git commit -m "first commit2"
+git push
 
 
 
