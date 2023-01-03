@@ -1,0 +1,22 @@
+git init
+
+git config --global user.name "Yuri Menezes" 
+
+git config --global user.email "projetohavoc@gmail.com"
+
+ssh-keygen
+
+abrir o arquivo ssh copiar o codigo
+
+cat C:\Users\Yuri/.ssh/id_rsa.pub **exemplo
+
+em seguida ir no github em configurações e ssh e cadastrar a chave
+
+conferindo se deu certo
+
+git remote -v
+
+
+
+
+
