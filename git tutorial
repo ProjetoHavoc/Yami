@@ -16,6 +16,18 @@ conferindo se deu certo
 
 git remote -v
 
+pra saber se tem arquivo pra salvar no git
+
+git status
+
+para salvar tudo
+
+git add .
+
+para enviar a publicação pro github
+
+git commit -m "first commit2"
+
 
 
 
