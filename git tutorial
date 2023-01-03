@@ -12,6 +12,8 @@ cat C:\Users\Yuri/.ssh/id_rsa.pub **exemplo
 
 em seguida ir no github em configurações e ssh e cadastrar a chave
 
+git remote add origin git@github.com:ProjetoHavoc/Django-Rest.git
+
 conferindo se deu certo
 
 git remote -v
